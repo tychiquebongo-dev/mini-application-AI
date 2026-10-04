@@ -1,0 +1,17 @@
+# Dependencies & OS files
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
